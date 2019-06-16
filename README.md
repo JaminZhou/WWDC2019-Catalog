@@ -141,7 +141,7 @@
 * [219 SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219/)
 * [220 Advances in UI Data Sources](https://developer.apple.com/videos/play/wwdc2019/220/)
 * [221 Introducing PencilKit](https://developer.apple.com/videos/play/wwdc2019/221/)
-* [224 Mastering the Living Room With tvOS](https://developer.apple.com/videos/play/wwdc2019/224/)
+* [224 Modernizing Your UI for iOS 13](https://developer.apple.com/videos/play/wwdc2019/224/)
 * [226 Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/)
 * [227 Font Management and Text Scaling](https://developer.apple.com/videos/play/wwdc2019/227/)
 * [230 Making Apps with Core Data](https://developer.apple.com/videos/play/wwdc2019/230/)
