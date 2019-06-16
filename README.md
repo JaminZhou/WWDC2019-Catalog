@@ -1,4 +1,4 @@
-# All kinds of sessions from WWDC 2018
+# All kinds of sessions from WWDC 2019
 
 ## SwiftUI
 * [204 Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)
