@@ -39,6 +39,7 @@
 * [803 Designing Great ML Experiences](https://developer.apple.com/videos/play/wwdc2019/803/)
 
 ## iPad
+* [203 Introducing Desktop-class Browsing on iPad](https://developer.apple.com/videos/play/wwdc2019/203/)
 * [205 Introducing iPad Apps for Mac](https://developer.apple.com/videos/play/wwdc2019/205/)
 * [212 Introducing Multiple Windows on iPad](https://developer.apple.com/videos/play/wwdc2019/212/)
 * [235 Taking iPad Apps for Mac to the Next Level](https://developer.apple.com/videos/play/wwdc2019/235/)
